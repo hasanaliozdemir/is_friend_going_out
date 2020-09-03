@@ -1,0 +1,16 @@
+user:
+  id:string
+  name:string
+  status:status[] // status objects
+  rooms:string[] // room ids
+
+status:
+  roomId:string // room id from room object
+  goingOut:boolean
+  haveCar:boolean
+  goingWhere:string
+
+room:
+  id:string
+  name:string
+  users:string[] // user ids

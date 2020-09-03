@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "255815972355",
+    "firebase_url": "https://new-is-friend.firebaseio.com",
+    "project_id": "new-is-friend",
+    "storage_bucket": "new-is-friend.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255815972355:android:0f4f875b59dac82ed84036",
+        "android_client_info": {
+          "package_name": "com.example.isnewfriend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "255815972355-6hce8ksl5bd3806qt6oflmfj2vaim52e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXtwr3RYcYw3__6kgv8VFNxmq45vqNsds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "255815972355-6hce8ksl5bd3806qt6oflmfj2vaim52e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
